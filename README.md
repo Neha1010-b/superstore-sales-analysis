@@ -43,7 +43,6 @@ Business Questions Answered
 - Profit Margin by Category
 - Running Total Sales
 - Discount Impact on Profit
-- Customer Segmentation
 
 ### Technologies Used
 - PostgreSQL - Database
